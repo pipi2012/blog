@@ -75,7 +75,7 @@ deploy:
   message:  
 
 # DuoShuo
-## duoshuo_shortname: starscount
+duoshuo_shortname: starscount
 
-# Baidu_Analytics
-## baidu_analytics: 6b4fbad8692af121f1368ddccd8a00ae
+# Baidu_Analytics starscount
+baidu_analytics: 8d9c7d3457b166203bc4d6829bf7e3f4
